@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1483014857 source:e:\c++\hw3.7\main.cpp
+	<iostream>
+
+1483022930 source:g:\c++\c (1)\hw3.7\main.cpp
+	<iostream>
+	<string.h>
+
