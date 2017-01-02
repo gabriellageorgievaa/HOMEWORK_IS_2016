@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1483382148 source:g:\c++\pr.hw4\main.cpp
+	<iostream>
+	<string.h>
+
